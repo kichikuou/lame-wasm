@@ -1,0 +1,16 @@
+lame.js
+lame.wasm
+
+lame/**/*.la
+lame/**/*.lo
+lame/**/.deps
+lame/**/.libs
+lame/**/Makefile
+lame/a.out*
+lame/config.h
+lame/config.log
+lame/config.status
+lame/dist/
+lame/lame.spec
+lame/libtool
+lame/stamp-h1
